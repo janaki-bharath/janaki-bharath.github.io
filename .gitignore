@@ -1,5 +1,5 @@
 .DS_Store
-
+config.yml
 # Compiled site
 _site
 .jekyll-cache/
